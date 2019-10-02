@@ -3,6 +3,7 @@
  *
  * Publish deploy as webhook for dialogflow
  * - intent CheckCode
+ * - reponse flexmessage
  */
 
 var ss = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1UJ1XCIqIsdcCQeo931nBYAv8vGEfU0i7M282edxIRBM/edit");
